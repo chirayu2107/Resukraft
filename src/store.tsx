@@ -32,7 +32,7 @@ export const get_demo_data = () => {
     "email address": "chirayumaru@gmail.com",
     "github username": "chirayu2107",
     profile:
-      "I'm a Frontend Web developer and an open source & linux enthusiast. I use Gnu / Artix linux and I maintain several open source projects at github. I'm looking forward to get a junior frontend web developer's position at a reputed corporation / startup and building user friendly & responsive interfaces with Reactjs.",
+      "I am a passionate Frontend Developer with a strong background in creating visually appealing and user-friendly web interfaces. With extensive experience in HTML, CSS, and JavaScript, I specialize in developing responsive and dynamic websites.",
 
     education: [
       {
