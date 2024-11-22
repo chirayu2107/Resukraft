@@ -28,7 +28,7 @@ export const get_demo_data = () => {
   return {
     "full name": "Chirayu Maru",
     designation: "Frontend web developer",
-    phone: "+91 8824976872",
+    phone: "+91-8824976872",
     "email address": "chirayumaru@gmail.com",
     "github username": "chirayu2107",
     profile:
