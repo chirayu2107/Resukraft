@@ -11,7 +11,7 @@ function App() {
 
       {/* use this for html-to-image (svg) */}
       <div id="svgWrapper" rounded-none md:grid justify-center>
-        {editorMode() ? <Editor /> : <View />}
+        {editorMode() ? <Editor /> : <Viewer />}
       </div>
     </div>
   );
